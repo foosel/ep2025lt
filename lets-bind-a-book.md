@@ -22,6 +22,8 @@ It's fun, trust me!<!-- .element: class="fragment" -->
 
 <!-- .element: class="layout-center" -->
 
+[momijizukamori.github.io/bookbinder-js](https://momijizukamori.github.io/bookbinder-js/)
+
 <img src="img/bookbinderjs.png" class="r-stretch" alt="Looping GIF of me punching the heavy bag in my office" />
 
 Notes:

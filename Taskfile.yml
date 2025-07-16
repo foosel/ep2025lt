@@ -1,0 +1,27 @@
+# https://taskfile.dev
+
+version: "3"
+
+env:
+  PRESENTATION: lets-bind-a-book.md
+  EXPORT: slides.pdf
+  PRESENTATION_TITLE: "Let's bind a book!"
+  PRESENTATION_AUTHOR: "Gina Haeussge"
+  SLIDES_URL: https://foosel.github.io/ep2025lt/
+
+tasks:
+  build:
+    desc: Builds the presentation
+    cmds:
+      - mkslides build {{ .PRESENTATION }}
+  
+  serve:
+    desc: Serve the presentation
+    cmds:
+      - mkslides serve -a 0.0.0.0:8000 {{ .PRESENTATION }}
+
+  export:
+    desc: Exports the presentation as a PDF
+    cmds:
+      - mkslides build {{ .PRESENTATION }}
+      - npx decktape reveal --progress=true -s 1920x1080 --pdf-author "{{ .PRESENTATION_AUTHOR }}" --pdf-title "{{ .PRESENTATION_TITLE }}" ./site/index.html ./{{ .EXPORT }}

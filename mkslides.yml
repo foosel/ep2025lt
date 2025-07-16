@@ -1,0 +1,20 @@
+slides:
+  favicon: https://foosel.net/favicon.ico
+  theme: css/slides.css
+  highlight_theme: vs
+  separator: ^\s*---\s*$
+  separator_vertical: ^\s*-v-\s*$
+  separator_notes: "^Notes?:"
+revealjs:
+  height: 1080
+  width: 1920
+  transition: fade
+  controls: false
+  hasOneBasedIndex: true
+  hash: true
+plugins:
+  - name: RevealMermaid
+    extra_javascript:
+      - https://cdn.jsdelivr.net/npm/reveal.js-mermaid-plugin/plugin/mermaid/mermaid.min.js
+  - extra_javascript:
+      - https://cdn.jsdelivr.net/npm/reveal-plantuml/dist/reveal-plantuml.min.js

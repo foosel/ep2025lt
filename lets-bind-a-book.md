@@ -24,7 +24,7 @@ It's fun, trust me! I'll show you!<!-- .element: class="fragment" -->
 
 [momijizukamori.github.io/bookbinder-js](https://momijizukamori.github.io/bookbinder-js/)
 
-<img src="img/bookbinderjs.png" class="r-stretch" alt="Looping GIF of me punching the heavy bag in my office" />
+<img src="img/bookbinderjs.png" class="r-stretch" />
 
 Notes:
 
@@ -36,7 +36,7 @@ Notes:
 
 <!-- .element: class="layout-center" -->
 
-<img src="img/signatures.jpg" class="r-stretch" alt="Looping GIF of me punching the heavy bag in my office" />
+<img src="img/signatures.jpg" class="r-stretch" />
 
 Notes:
 
@@ -48,7 +48,7 @@ Notes:
 
 <!-- .element: class="layout-center" -->
 
-<img src="img/sewing.jpg" class="r-stretch" alt="Looping GIF of me punching the heavy bag in my office" />
+<img src="img/sewing.jpg" class="r-stretch" />
 
 Notes:
 
@@ -61,7 +61,7 @@ Notes:
 
 <!-- .element: class="layout-center" -->
 
-<img src="img/cutting.jpg" class="r-stretch" alt="Looping GIF of me punching the heavy bag in my office" />
+<img src="img/cutting.jpg" class="r-stretch" />
 
 Notes:
 
@@ -74,7 +74,7 @@ Notes:
 
 <!-- .element: class="layout-center" -->
 
-<img src="img/spineprep.jpg" class="r-stretch" alt="Looping GIF of me punching the heavy bag in my office" />
+<img src="img/spineprep.jpg" class="r-stretch" />
 
 Notes:
 
@@ -87,7 +87,7 @@ Notes:
 
 <!-- .element: class="layout-center" -->
 
-<img src="img/cased.jpg" class="r-stretch" alt="Looping GIF of me punching the heavy bag in my office" />
+<img src="img/cased.jpg" class="r-stretch" />
 
 Notes:
 
@@ -100,11 +100,20 @@ Notes:
 
 <!-- .element: class="layout-center" -->
 
-<img src="img/open_book.jpg" class="r-stretch" alt="Looping GIF of me punching the heavy bag in my office" />
+<img src="img/finished_book.jpg" class="r-stretch" />
 
 Notes:
 
 - Congratulations, you have a book!
+
+---
+
+<!-- .element: class="layout-center" -->
+
+<img src="img/open_book.jpg" class="r-stretch" />
+
+Notes:
+
 - It's amazing being able to leaf through a book you bound yourself!
 
 ---
@@ -113,7 +122,7 @@ Notes:
 
 And next time:
 
-<img src="img/softcover.jpg" class="r-stretch" alt="Looping GIF of me punching the heavy bag in my office" />
+<img src="img/softcover.jpg" class="r-stretch" />
 
 How to make softcover paperbacks!
 

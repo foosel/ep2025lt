@@ -4,7 +4,7 @@ title: "How to deal with toxic people"
 
 <!-- .element: class="layout-center" -->
 
-# Let's bind a hardcover book!
+# Let's bind a book!
 
 Gina Häußge // <a href="https://foosel.net">foosel.net</a>
 
@@ -16,7 +16,7 @@ Do you have a PDF that you'd love to turn into a book?
 
 Why not bind it yourself?<!-- .element: class="fragment" -->
 
-It's fun, trust me!<!-- .element: class="fragment" -->
+It's fun, trust me! I'll show you!<!-- .element: class="fragment" -->
 
 --- 
 
